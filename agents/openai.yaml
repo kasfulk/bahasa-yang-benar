@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bahasa yang Benar"
+  short_description: "Menulis bahasa Indonesia bermutu tanpa mengubah fakta"
+  default_prompt: "Pakai $bahasa-yang-benar untuk menulis atau menyunting teks ini: ikuti EYD V dan anti AI slop, dan jangan mengubah angka, hasil, atau sitasi."

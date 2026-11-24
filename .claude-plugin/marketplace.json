@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "bahasa-yang-benar",
+  "owner": {
+    "name": "Kasjful Kurniawan",
+    "url": "https://github.com/kasfulk"
+  },
+  "description": "Pasang bahasa-yang-benar sebagai plugin Claude Code.",
+  "plugins": [
+    {
+      "name": "bahasa-yang-benar",
+      "source": "./",
+      "description": "Menulis dan menyunting bahasa Indonesia yang benar sekaligus baik: anti AI slop, EYD V, marketing, UX writing, SEO, dan naskah ilmiah dengan sitasi jujur.",
+      "license": "MIT",
+      "keywords": ["bahasa-indonesia", "penulisan", "eyd", "kbbi", "copywriting", "seo", "penulisan-ilmiah"]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "bahasa-yang-benar",
+  "version": "1.0.0",
+  "description": "Paket skill penulisan bahasa Indonesia bermutu dan bebas AI slop: aturan inti (diksi, kata baku, EYD V, ragam), marketing & media sosial, website & UX writing, konten SEO, dan karya ilmiah (sitasi jujur, IMRaD, pemeriksa naskah).",
+  "author": {
+    "name": "Kasjful Kurniawan"
+  },
+  "homepage": "https://github.com/kasfulk/bahasa-yang-benar",
+  "repository": "https://github.com/kasfulk/bahasa-yang-benar",
+  "license": "MIT",
+  "keywords": ["bahasa-indonesia", "penulisan", "eyd", "kbbi", "copywriting", "seo", "penulisan-ilmiah"],
+  "skills": ["./skills/bahasa-inti", "./skills/bahasa-marketing", "./skills/bahasa-website", "./skills/bahasa-seo", "./skills/bahasa-peneliti"]
+}
